@@ -1,7 +1,7 @@
 import { useState } from 'react';
 // import logo from './logo.svg';
 import './App.css';
-
+//this is React
 const styles = {
   title: {
     fontSize: 36,
